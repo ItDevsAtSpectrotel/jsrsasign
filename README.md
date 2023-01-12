@@ -1,32 +1,10 @@
 jsrsasign
 =========
 
-[![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/kjur/jsrsasign/blob/master/LICENSE.txt)
-[![bower](https://img.shields.io/bower/v/jsrsasign.svg?maxAge=2592000)](https://libraries.io/bower/jsrsasign)
-[![npm version](https://badge.fury.io/js/jsrsasign.svg)](https://badge.fury.io/js/jsrsasign)
-[![npm downloads](https://img.shields.io/npm/dm/jsrsasign.svg)](https://www.npmjs.com/package/jsrsasign)
-[![jsdeliver downloads](https://data.jsdelivr.com/v1/package/npm/jsrsasign/badge)](https://www.jsdelivr.com/package/npm/jsrsasign)
-[![CDNJS](https://img.shields.io/cdnjs/v/jsrsasign.svg)](https://cdnjs.com/libraries/jsrsasign)
-[![githubsponsors](https://img.shields.io/badge/github-donate-yellow.svg)](https://github.com/sponsors/kjur)
-[![cryptocurrency](https://img.shields.io/badge/crypto-donate-yellow.svg)](https://github.com/kjur/jsrsasign#cryptocurrency)
-
-jsrsasign [TOP](https://kjur.github.io/jsrsasign/) | [github](https://github.com/kjur/jsrsasign) | [Wiki](https://github.com/kjur/jsrsasign/wiki) | [DOWNLOADS](https://github.com/kjur/jsrsasign/releases) | [TUTORIALS](https://github.com/kjur/jsrsasign/wiki#programming-tutorial) | [API REFERENCE](https://kjur.github.io/jsrsasign/api/) | [Online Tool](https://github.com/kjur/jsrsasign/wiki/jsrsasign-Online-Tools) | [DEMO](https://github.com/kjur/jsrsasign/wiki/jsrsasign-Demo) | [NODE TOOL](https://github.com/kjur/jsrsasign/wiki/Sample-Node-Tool-List) | [AddOn](https://github.com/kjur/jsrsasign/wiki/jsrsasign-Add-On) | [DONATE](https://github.com/kjur/jsrsasign#donations)
-
 The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token/Key in pure JavaScript.
 
-Public page is https://kjur.github.io/jsrsasign .
+Public page is https://github.com/ItDevsAtSpectrotel/jsrsasign .
 
-Your bugfix and pull request contribution are always welcomed :)
-
-NEWS
-----
-- 2021-Nov-21: [10.5.0 Release](https://github.com/kjur/jsrsasign/releases/tag/10.5.0). Now supports secp521r1(P-521) ECDSA.
-- 2021-Apr-14: [Security advisory](https://github.com/kjur/jsrsasign/security/advisories/GHSA-27fj-mc8w-j9wg) and [update](https://github.com/kjur/jsrsasign/releases/tag/10.2.0) for CVE-2021-30246 RSA signature validation vulnerability published
-- 2020-Oct-05: jsrsasign won [Google Open Source Peer Bonus Award](https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html). Thank you Google.
-- 2020-Sep-23: 10.0.0 released for CMS SignedData related class including timestamp and CAdES architecture update
-- 2020-Aug-24: 9.1.0 released to new CRL APIs align with certificate
-- 2020-Aug-19: 9.0.0 released for major update of certificate and CSR generation and parsing without backward compatibility. Please see [migration guide](https://github.com/kjur/jsrsasign/wiki/NOTE-jsrsasign-8.0.x-to-9.0.0-Certificate-and-CSR-API-migration-guide) in detail.
-- 2020-Aug-02: twitter account [@jsrsasign](https://twitter.com/jsrsasign) started for announcement. please follow.
 
 HIGHLIGHTS
 ----------
